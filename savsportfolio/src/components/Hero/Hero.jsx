@@ -6,9 +6,10 @@ export const Hero = () => {
     return (
     <section className={styles.container}>
         <div className={styles.content}>
-            <h1 className={styles.title}> Hello, I'm Savayi! </h1>
+            <h2 className={styles.title}> Hello, I'm Savayi! </h2>
             <p className={styles.description}>
-                I specialize in full Stack development, 
+            I am a dedicated and energetic professional pursuing a bachelor’s degree in informatics and computer
+            science at Strathmore University, specializing in full Stack development, 
                 mobile application development, and AIdriven solutions.
             </p>
             <a href = "mailto:savayichelsea90@gmail.com"className={styles.contactBtn}>Contact Me</a>
